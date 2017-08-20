@@ -1,0 +1,28 @@
+body{
+  background-color:#19535F;
+}
+
+#city{
+  color:white;
+  font-Size:35px;
+}
+
+.style{
+  color:#F6511D;
+  font-size:30px;
+}
+
+#weatherType{
+  text-transform:capitalize;
+}
+
+#weather{
+  color:white;
+  font-size:70px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+p{
+  color:#AFEEEE;
+}
